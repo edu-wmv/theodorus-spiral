@@ -3,7 +3,7 @@
 ## How to run
 1. Install [Python 3](https://www.python.org/downloads/)
 2. Install virtualenv
-     - pip install virtual
+     - pip install virtualenv
 4. Create a venv
      - python -m venv .venv
 5. Start the venv:
